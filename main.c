@@ -1,4 +1,4 @@
-//
+
 //  main.c
 //  MyString.h_Library
 //
@@ -9,9 +9,6 @@
 #include <stdio.h>
 #include "mystring.h"
 #include <string.h>
-//#incasdlfkjasdlkfjsldfj
-//askfjasdlf
-//asdf
 
 int main(int argc, const char * argv[]) {
     //MohamedNayefAhmedElRifaayMohamedIbrahimMohamedHassanElSayedGommaaElGammal
